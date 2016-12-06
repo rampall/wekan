@@ -43,6 +43,6 @@ with [Meteor](https://www.meteor.com).
 [indiehosters_button]: https://indie.host/signup.png
 [indiehosters_saas]: https://indiehosters.net/shop/product/wekan-20
 [scalingo_button]: https://cdn.scalingo.com/deploy/button.svg
-[scalingo_deploy]: https://my.scalingo.com/deploy?source=https://github.com/wekan/wekan#master
+[scalingo_deploy]: https://my.scalingo.com/deploy?source=https://github.com/rampall/wekan#master
 [cloudron_button]: https://cloudron.io/img/button.svg
 [cloudron_install]: https://cloudron.io/button.html?app=io.wekan.cloudronapp
